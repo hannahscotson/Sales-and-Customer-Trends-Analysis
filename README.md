@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="329" height="152" alt="image" src="https://github.com/user-attachments/assets/79466b93-6509-4645-bffa-8bfb723f0d95" />
-
+  <img width="302" height="126" alt="image" src="https://github.com/user-attachments/assets/437f4359-31f2-4342-87f6-4e132b164173" />
 </p>
 
 <h1 align="center">Sales and Customer Trend Analysis</h1>

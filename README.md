@@ -29,3 +29,53 @@
     <div width="920">
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Revenue Analysis (2021–2024)</h3>
+      <div align="center">
+        <img width="635" height="366" alt="image" src="https://github.com/user-attachments/assets/406f70e5-2c31-41e6-8286-ec156f209eab" />
+        </div>
+        <td width="460" valign="top">
+          <ol>
+            <li>
+              <strong>Revenue Growth and Peak Performance:</strong>
+              <ul>
+                <li>placeholder</li>
+                <li>placeholder</li>
+                <li>placeholder</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Declining Trend in 2022</strong>
+              <ul>
+                <li>placeholder</li>
+                <li>placeholder</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+        <td width="460" valign="top">
+          <ol start="3">
+            <li>
+              <strong>Quarterly Insights & Seasonal Trends</strong>
+              <ul>
+                <li>placeholder</li>
+                <li>placeholder</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Key Takeaways & Recommendations</strong>
+              <ul>
+                <li>placeholder</li>
+                <li>placeholder</li>
+                <li>placeholder</li>
+              </ul>
+            </li>
+          </ol>
+        </td>
+      </div>
+    </tr>
+  </table>
+  <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
+  <body>The database structure as seen below consists of three tables: orders, customers, and order_status, with a total row count of 9994 records.</body>
+  <div align="center">
+    <img width="623.2" height="463.2" alt="Orders" src="https://github.com/user-attachments/assets/8ae22d22-8564-48f1-8c0f-d113c248578d" />
+  </div>
+  

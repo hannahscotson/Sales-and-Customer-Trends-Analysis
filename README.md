@@ -30,7 +30,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Revenue Analysis (2021–2024)</h3>
       <div align="center">
-        <img width="635" height="366" alt="image" src="https://github.com/user-attachments/assets/406f70e5-2c31-41e6-8286-ec156f209eab" />
+        <img width="670" height="313" alt="image" src="https://github.com/user-attachments/assets/42bca589-f446-434e-854d-fdbf67a80b4e" />
         </div>
         <td width="460" valign="top">
           <ol>
@@ -78,4 +78,20 @@
   <div align="center">
     <img width="623.2" height="463.2" alt="Orders" src="https://github.com/user-attachments/assets/8ae22d22-8564-48f1-8c0f-d113c248578d" />
   </div>
-  
+  <h1 align="center">Insights Deep-Dive</h1>
+<table align="center">
+  <tr>
+    <h1 align="center">Sales Trend</h1>
+    <td width="1000">
+      <img width="333" height="330" alt="image" src="https://github.com/user-attachments/assets/a93fccb9-2d59-4d61-9edb-5b3f7048fef1" />
+    </td>
+    <td width="1000">
+      <img width="330" height="329" alt="image" src="https://github.com/user-attachments/assets/9b079d02-c164-4a93-944a-1d1d29a102f3" />
+    </td>
+    <td width="1000">
+      <img width="334" height="332" alt="image" src="https://github.com/user-attachments/assets/83d06c9b-a053-4919-a180-1a0b40a9f9c9" />
+    </td>
+  </tr>
+</table>
+
+  <tr>

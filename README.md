@@ -35,18 +35,18 @@
         <td width="460" valign="top">
           <ol>
             <li>
-              <strong>Revenue Growth and Peak Performance:</strong>
+              <strong>Revenue Growth</strong>
               <ul>
-                <li>2024 (Last year) was the strongest year, with Q4 seeing the highest revenue (£280K), making it the best-performing period overall.</li>
                 <li>Sales revenue has demonstrated consistent year-on-year growth over the past four years</li>
                   <li>Despite the recurring dip in Q1, the overall sales trajectory is upward, indicating strengthening demand and improved commercial execution over time as Lumous saw a 56% increase in sales revenue since the opening year and a 16% CAGR (Compound Annual Growth Rate).</li>
               </ul>
             </li>
             <li>
-              <strong>Declining Trend in 2022</strong>
+              <strong>Peak Performance</strong>
               <ul>
-                <li>placeholder</li>
-                <li>placeholder</li>
+                <li>2024 (Last year) was the strongest year, with Q4 seeing the highest revenue (£280K), making it the best-performing period overall.</li>
+                <li>Q4 peaks have grown from £180K in 2022 to £236K in 2024, and early 2025 data shows further acceleration with a peak of £280K. This suggests successful peak-season promotional strategies, marketing effectiveness, and strong customer acquisition during holiday periods.</li>
+                <li>However, the recurring drop to Q1 levels (e.g., £69K in 2022 and £93K in 2023) highlights a need to improve customer retention and off-peak demand generation. Addressing this seasonal dependency would smooth revenue variability and increase operational efficiency.</li>
               </ul>
             </li>
           </ol>

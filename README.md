@@ -37,9 +37,9 @@
             <li>
               <strong>Revenue Growth and Peak Performance:</strong>
               <ul>
-                <li>placeholder</li>
-                <li>placeholder</li>
-                <li>placeholder</li>
+                <li>2024 (Last year) was the strongest year, with Q4 seeing the highest revenue (£280K), making it the best-performing period overall.</li>
+                <li>Sales revenue has demonstrated consistent year-on-year growth over the past four years</li>
+                  <li>Despite the recurring dip in Q1, the overall sales trajectory is upward, indicating strengthening demand and improved commercial execution over time as Lumous saw a 56% increase in sales revenue since the opening year and a 16% CAGR (Compound Annual Growth Rate).</li>
               </ul>
             </li>
             <li>
@@ -56,15 +56,16 @@
             <li>
               <strong>Quarterly Insights & Seasonal Trends</strong>
               <ul>
-                <li>placeholder</li>
-                <li>placeholder</li>
+                <li>Q4 is consistently the strongest quarter, likely due to seasonal shopping.</li>
+                <li>Sharp decline in Q1 performance is primarily due to predictable post-holiday seasonality and shifts in consumer behaviour and market dynamics after the peak spending season of Q4.</li>
+                <li>Sales revenue increases through the course of each year, likely due to seaonal shopping and increased marketing efforts.</li>
               </ul>
             </li>
             <li>
               <strong>Key Takeaways & Recommendations</strong>
               <ul>
-                <li>placeholder</li>
-                <li>placeholder</li>
+                <li>Implement discount sales and associated marketing in Q1 to address decrease in sales.</li>
+                <li>Leverage high-performing periods (Q3 and Q4) to refine marketing and sales strategies.</li>
                 <li>placeholder</li>
               </ul>
             </li>

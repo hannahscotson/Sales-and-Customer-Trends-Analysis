@@ -94,5 +94,133 @@
     </td>
   </tr>
 </table>
-
+<table>
   <tr>
+    <td>
+      <strong>Sales Revenue</strong>
+      <ol>
+        <li>p</li>
+        <li>p</li>
+      </ol>
+      <strong>Average Order Value</strong>
+      <ol>
+        <li>p</li>
+        <li>p</li>
+      </ol>
+      <strong>Order Count</strong>
+      <ol>
+        <li>p</li>
+        <li>p</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <h4>
+        <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong>
+      </h4>
+      <td>
+        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/Sales_and_AOV_Growth_MOY_CamilingJS" />
+      </td>
+    </tr>
+  </table>
+</div>
+<table align="center">
+  <tr>
+     <h1 align="center">Product Performance</h1>
+      <div align="center">
+        <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
+        <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
+      </div>
+    <tr>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+      <td width="333" valign="top">
+      <h3>The Best and Worst</h3>
+      <ul>
+        <li>p</li>
+      </ul>
+      </td>
+  <td width="333" valign="top">
+      <h3>AOV Over Time</h3>
+      <ul>
+        <li>p</li>
+      </ul>
+      </td>
+      <td width="333" valign="top">
+      <h3>Heat Map Findings</h3>
+      <ul>
+        <li>p</li>
+      </ul>
+      </td>
+</tr>
+</table>
+<table align="center">
+    <tr align="center">
+      <td width="1000" valign="top">
+      <h3>AOV Over Time (2019-2022)</h3>
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
+    </td>
+    <td width="1000">
+      <h3>Product Sales Heat Map by Quarter</h3>
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740646006/Sales_Heatmap_CamilingJS">
+    </td>
+  </tr>
+</table>
+</table>
+
+<table align="center">
+  <h1 align="center">Regional Results</h1>
+      <div align="center">
+        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/Regional_Barbel_Graph_CamilingJS" />
+      </div>
+  <tr valign="top">
+     <td width="900">
+      <ul>
+        <li>p</li>
+          <ul>
+            <li>p</li>
+          </ul>
+        <li>p</li>
+          <ul>
+            <li>p</li>
+          </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+<!-- <table>
+  <tr>
+    <td width="700" border="0"><h1>Recommendations</h1>
+    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4></td>
+    <td width="400" border="0"><div align="right">
+      <img width="192" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
+    </div></td>
+  </tr>
+</table> -->
+<table align="center">
+    <h1>Recommendations</h1>
+    <h4>Based on the uncovered insights, here are actionable items that Lumous can take away from our analysis.</h4>
+      <ul>
+        <h3>Sales</h3>
+        <li>p</li>
+          <ul>
+            <li>p</li>
+          </ul>
+        <h3>Products</h3>
+        <li>p</li>
+          <ul>
+            <li>p</li>
+          </ul>
+        <h3>Regions</h3>
+        <li>p</li>
+          <ul>
+            <li>p</li>
+          </ul>
+      </ul>
+</table>

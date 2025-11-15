@@ -99,18 +99,19 @@
     <td>
       <strong>Sales Revenue</strong>
       <ol>
-        <li>p</li>
+        <li>Significant boost in Sales Revenue in Q4 2024.</li>
         <li>p</li>
       </ol>
       <strong>Average Order Value</strong>
       <ol>
-        <li>p</li>
+        <li>Noticeable decrease in AOV.</li>
         <li>p</li>
       </ol>
       <strong>Order Count</strong>
       <ol>
-        <li>p</li>
-        <li>p</li>
+        <li>Strong growth in the number of orders placed year-on-year, where order counts closely follow sales revenue.</li>
+        <li>Total orders <strong>rose by 28%</strong> from 2023 to 2024, where Q4 made up <strong>almost 40%</strong> of total orders in 2024.</li>
+        <li>Q1 consistently lags behind other quarters with the <strong>fewer orders</strong> relative to each year. While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue.</li>
       </ol>
     </td>
   </tr>

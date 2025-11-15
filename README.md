@@ -104,24 +104,25 @@
       </ol>
       <strong>Average Order Value</strong>
       <ol>
-        <li>Overall AOV trend is downward relative to the highs of 2021</li>
+        <li>Overall AOV Trend Is Downward Relative to the Highs of 2021</li>
           <ul>
-            <li>Despite occasional spikes (e.g. mid 2023 and early 2024), the general trajectory is below the early 2021 peak.</li>
+            <li>AOV begins at a <strong>high of £568</strong> in early 2021, followed by a <strong>sharp drop</strong> and <strong>irregular quarter-to-quarter fluctuations</strong> across the entire period.</li>
+            <li>Despite <strong>occasional spikes</strong> (e.g. mid 2023 and early 2024), the general trajectory is below the <strong>early 2021 peak</strong>.</li>
             <li>By 2024 AOV hits a low of <strong>£364</strong>, the <strong>lowest point</strong> in the observed period and well below the year-on-year <strong>average of £467</strong>.</li>
           </ul>
-        <li>2024 shows the sharpest decline but signs of mild recovery</li>
+        <li>2024 Shows the Sharpest Decline but Signs of Mild Recovery</li>
           <ul>
-            <li>The steep dip to £364 in 2024 suggests reduced basket sizes, either fewer items per order or customers shifting to lower-priced products.</li>
-            <li>The slight increase in the final quarter indicates AOV may be stabilising, though still below historical levels with 2024 performing <strong>13% worse</strong> than 2021.</li>
+            <li>Despite starting well with an AOV of <strong>£513 in Q1</strong>, the steep <strong>dip to £364</strong> suggests reduced basket sizes with either <strong>fewer items per order</strong> or customers shifting to <strong>lower-priced products</strong>.</li>
+            <li>The slight increase in the final quarter indicates AOV <strong>may be stabilising</strong>, though <strong>still below previous levels</strong> with 2024 performing <strong>13% worse</strong> than 2021.</li>
           </ul>
-        <li>Long-Term Decline May Indicate Price Sensitivity or Product Mix Shifts</li>
+        <li>Long-Term Decline May Indicate Price Sensitivity or Product Purchase Shifts</li>
         <ul>
-          <li>Customers appear to be spending less per transaction compared to earlier years, despite growth in total order volume.</li>
-          <li>This aligns with possible macroeconomic pressure (cost-of-living impacts) or strategic shifts such as discounting, more entry-level SKUs, or promotional activity pulling down the average.</li>
+          <li>Customers appear to be spending <strong>less per transaction</strong> compared to earlier years, despite <strong>growth in total order volume</strong>.</li>
+          <li>This aligns with possible <strong>cost-of-living impacts</strong> or strategic shifts such as discounting, or promotional activity pulling down the average.</li>
       </ol>
       <strong>Order Count</strong>
       <ol>
-        <li>Strong growth in the number of orders placed year-on-year, where order counts closely follow sales revenue.</li>
+        <li>Strong growth in the number of orders placed year-on-year, where <strong>order counts closely follow sales revenue</strong>.</li>
         <li>Total orders <strong>rose by 28%</strong> from 2023 to 2024, where Q4 made up <strong>almost 40%</strong> of total orders in 2024.</li>
         <li>Q1 consistently lags behind other quarters with the <strong>fewer orders</strong> relative to each year. While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue.</li>
       </ol>

@@ -104,8 +104,20 @@
       </ol>
       <strong>Average Order Value</strong>
       <ol>
-        <li>Noticeable decrease in AOV.</li>
-        <li>p</li>
+        <li>Overall AOV trend is downward relative to the highs of 2021</li>
+          <ul>
+            <li>Despite occasional spikes (e.g. mid 2023 and early 2024), the general trajectory is below the early 2021 peak.</li>
+            <li>By 2024 AOV hits a low of <strong>£364</strong>, the <strong>lowest point</strong> in the observed period and well below the year-on-year <strong>average of £467</strong>.</li>
+          </ul>
+        <li>2024 shows the sharpest decline but signs of mild recovery</li>
+          <ul>
+            <li>The steep dip to £364 in 2024 suggests reduced basket sizes, either fewer items per order or customers shifting to lower-priced products.</li>
+            <li>The slight increase in the final quarter indicates AOV may be stabilising, though still below historical levels with 2024 performing <strong>13% worse</strong> than 2021.</li>
+          </ul>
+        <li>Long-Term Decline May Indicate Price Sensitivity or Product Mix Shifts</li>
+        <ul>
+          <li>Customers appear to be spending less per transaction compared to earlier years, despite growth in total order volume.</li>
+          <li>This aligns with possible macroeconomic pressure (cost-of-living impacts) or strategic shifts such as discounting, more entry-level SKUs, or promotional activity pulling down the average.</li>
       </ol>
       <strong>Order Count</strong>
       <ol>

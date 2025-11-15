@@ -99,8 +99,22 @@
     <td>
       <strong>Sales Revenue</strong>
       <ol>
-        <li>Significant boost in Sales Revenue in Q4 2024.</li>
-        <li>p</li>
+        <li>Record High in Q4 2024</li>
+        <ul>
+          <li>Q4 has been the strongest quarter year-on-year, largely due to holiday shopping (Black Friday, Cyber Monday, Christmas sales).</li>
+          <li>November 2024 Sales Revenue alone was <strong>£118K</strong>, which is practically <strong>double</strong> that achieved in previous years (£76K-£79K). This growth indicates <strong>effective marketing</strong> and <strong>improved product availability</strong> within this period. </li>
+          <li>Since shifting more focus to <strong>cheaper products</strong> such as small <strong>office supplies</strong>, Lumous has seen a <strong>substantial increase in sales revenue</strong>, likely due to new business clients that require such supplies in bulk amounts.</li>
+        </ul>
+        <li>Q4 Consistently Strongest Quarter</li>
+        <ul>
+          <li>Q4 is the strongest quarter year-on-year, largely due to <strong>holiday shopping</strong> (Black Friday, Cyber Monday, Christmas sales).</li>
+          <li>Products such as <strong>chairs</strong>, <strong>tables</strong>, and <strong>phones</strong> consistently earn <strong>£15K-£30K</strong> each in the last quarter, making them large contributers to the <strong>annual spike</strong> in Q4. </li> 
+        </ul>
+        <li>Sales Plummet in Q1</li>
+        <ul>
+          <li>Sales revenue <strong>drops by ~50%</strong> from Q4 to the first quarter of the next year, likely due to <strong>post-holiday seasonality</strong> and <strong>shifts in consumer behaviour</strong>.</li>
+          <li>Although this percentage decreased adequetely (~18) from 2022 to 2023, the decrease from 2023 to 2024 was only <strong>1%</strong> so Lumous may need to focus on increasing Q1 sales.</li>
+        </ul>
       </ol>
       <strong>Average Order Value</strong>
       <ol>
@@ -115,7 +129,7 @@
             <li>Despite starting well with an AOV of <strong>£513 in Q1</strong>, the steep <strong>dip to £364</strong> suggests reduced basket sizes with either <strong>fewer items per order</strong> or customers shifting to <strong>lower-priced products</strong>.</li>
             <li>The slight increase in the final quarter indicates AOV <strong>may be stabilising</strong>, though <strong>still below previous levels</strong> with 2024 performing <strong>13% worse</strong> than 2021.</li>
           </ul>
-        <li>Long-Term Decline May Indicate Price Sensitivity or Product Purchase Shifts</li>
+        <li>Long-Term Decline May Indicate Price Sensitivity or Promotional Shifts</li>
         <ul>
           <li>Customers appear to be spending <strong>less per transaction</strong> compared to earlier years, despite <strong>growth in total order volume</strong>.</li>
           <li>This aligns with possible <strong>cost-of-living impacts</strong> or strategic shifts such as discounting, or promotional activity pulling down the average.</li>

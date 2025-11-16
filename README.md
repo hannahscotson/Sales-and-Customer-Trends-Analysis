@@ -148,10 +148,10 @@
   <table>
     <tr>
       <h4>
-        <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong>
+        <strong>Sales Growth and AOV Growth followed seasonal fluctuations in 2024.</strong>
       </h4>
       <td>
-        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/Sales_and_AOV_Growth_MOY_CamilingJS" />
+        <img width="724.5" height="322.5" alt="image" src="https://github.com/user-attachments/assets/de6f4abf-1f99-40e3-97e3-c3daca7ca200" />
       </td>
     </tr>
   </table>

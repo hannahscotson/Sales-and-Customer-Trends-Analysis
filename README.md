@@ -113,7 +113,7 @@
         <li>Sales Plummet in Q1</li>
         <ul>
           <li>Sales revenue <strong>drops by ~50%</strong> from Q4 to the first quarter of the next year, likely due to <strong>post-holiday seasonality</strong> and <strong>shifts in consumer behaviour</strong>.</li>
-          <li>Although this percentage decreased adequetely (~18) from 2022 to 2023, the decrease from 2023 to 2024 was only <strong>1%</strong> so Lumous may need to focus on increasing Q1 sales.</li>
+          <li>Although this percentage decreased adequetely (~18%) from 2022 to 2023, the decrease from 2023 to 2024 was only <strong>1%</strong> so Lumous may need to focus on <strong>increasing Q1 sales</strong> through <strong>strategic marketing</strong> and <strong>shifting product focus</strong>.</li>
         </ul>
       </ol>
       <strong>Average Order Value</strong>

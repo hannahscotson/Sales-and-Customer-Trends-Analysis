@@ -160,8 +160,8 @@
   <tr>
      <h1 align="center">Product Performance</h1>
       <div align="center">
-        <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
-        <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
+        <h3>AOV Dropped as Order Count Surged but Expensive Product Sales were Largest Contributers of 2024</h3>
+        <img width="913" height="375.1" alt="image" src="https://github.com/user-attachments/assets/e67a2088-d3ed-49c6-9188-bf4d781a5e4c" />
       </div>
     <tr>
   </tr>

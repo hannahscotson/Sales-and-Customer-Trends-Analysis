@@ -156,28 +156,44 @@
     </tr>
   </table>
 </div>
+
 <table align="center">
   <tr>
      <h1 align="center">Product Performance</h1>
       <div align="center">
         <h3>AOV Dropped as Order Count Surged but Expensive Product Sales were Largest Contributers of 2024</h3>
-        <img width="913" height="375.1" alt="image" src="https://github.com/user-attachments/assets/e67a2088-d3ed-49c6-9188-bf4d781a5e4c" />
       </div>
     <tr>
   </tr>
 </table>
+
+<table align="center">
+    <tr align="center">
+      <td width="1000" valign="top">
+      <h3>Top Products in 2024</h3>
+      <img width="511" height="368" alt="image" src="https://github.com/user-attachments/assets/a74ffd3d-4820-4194-b403-bae998a7abce" />
+    </td>
+    <td width="1000">
+      <h3>Top Products Overall (2021-2024)</h3>
+      <img width="519" height="376" alt="image" src="https://github.com/user-attachments/assets/19873766-66b4-435f-9af1-3f8f1fb57d4e" />
+    </td>
+  </tr>
+</table>
+</table>
+
 <table align="center">
   <tr>
       <td width="333" valign="top">
       <h3>The Best and Worst</h3>
       <ul>
-        <li>p</li>
+        <li>Phones and Chairs contributed the most to total sales revenue between 2021-2024, with products in those sub-categories accounting for 14% of total sales each.</li>
+        <li>In contrast, products labelled as Envelopes, Labels, and Fasteners each contributed less that 1% of total sales revenue.</li>
       </ul>
       </td>
   <td width="333" valign="top">
       <h3>AOV Over Time</h3>
       <ul>
-        <li>p</li>
+        <li>Machines and Copiers are consistently the biggest contributers to AOV since containing the more expensive products such as the Canon imageCLASS 2200 Advanced Copier which was the the top contributer in 2024 by a significant amount, making up 46% of total sales revenue in 2024 (£35.7K). </li>
       </ul>
       </td>
       <td width="333" valign="top">
@@ -196,7 +212,7 @@
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="521" height="325" alt="image" src="https://github.com/user-attachments/assets/fd53b258-9150-4147-9372-6d7c866b8cf6" />
+      <img width="552" height="371" alt="image" src="https://github.com/user-attachments/assets/2c93d8df-98b5-40e4-a8d0-d021122f6c75" />
     </td>
   </tr>
 </table>
@@ -227,7 +243,7 @@
             <li>This region accounts for only <strong>17%</strong> of toal sales.</li>
             <li>Generating only <strong>£71K</strong> in 2022.</li>
           </ul>
-        <li><strong>Little Variation</strong> in AOV per region.</li>
+        <li><strong>Minimal variation</strong> in AOV per region.</li>
         <ul>
           <li>Outside of the spike in the South West in 2021, AOV does not typically vary by more than <strong>£115</strong> between regions per year.</li>
         </ul>

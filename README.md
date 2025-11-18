@@ -207,25 +207,30 @@
   <table align="center">
     <tr align="center">
       <td width="1000" valign="top">
-      <h3>AOV by Region (2021-2024)</h3>
-      <img width="459" height="356" alt="image" src="https://github.com/user-attachments/assets/eb97533a-fd76-4b2f-8b2e-e59e79546055" />
+        <h3>Sales by Region (2021-2024)</h3>
+      <img width="433" height="333" alt="image" src="https://github.com/user-attachments/assets/7794fdba-9746-40ae-a71f-28d843a3f596" />
     </td>
     <td width="1000">
-      <h3>Sales by Region (2021-2024)</h3>
-      <img width="433" height="333" alt="image" src="https://github.com/user-attachments/assets/7794fdba-9746-40ae-a71f-28d843a3f596" />
+      <h3>AOV by Region (2021-2024)</h3>
+      <img width="459" height="356" alt="image" src="https://github.com/user-attachments/assets/eb97533a-fd76-4b2f-8b2e-e59e79546055" />
     </td>
   </tr>
 </table>
 </table>
       <ul>
-        <li>p</li>
+        <li>The <strong>North West</strong> region contributes the most to Lumous' sales revenue, closely followed by the <strong>South East</strong>.</li>
           <ul>
-            <li>p</li>
+            <li>These two regions make up <strong>61%</strong> of the total sales revenue over the past four years.</li>
           </ul>
-        <li>p</li>
+        <li>In contrast, Lumous sales have <strong>underperformed</strong> in the <strong>South West</strong> region.</li>
           <ul>
-            <li>p</li>
+            <li>This region accounts for only <strong>17%</strong> of toal sales.</li>
+            <li>Generating only <strong>£71K</strong> in 2022.</li>
           </ul>
+        <li><strong>Little Variation</strong> in AOV per region.</li>
+        <ul>
+          <li>Outside of the spike in the South West in 2021, AOV does not typically vary by more than <strong>£115</strong> between regions per year.</li>
+        </ul>
       </ul>
     </td>
   </tr>

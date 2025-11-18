@@ -191,12 +191,12 @@
 <table align="center">
     <tr align="center">
       <td width="1000" valign="top">
-      <h3>AOV Over Time (2019-2022)</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
+      <h3>AOV Over Time (2021-2024)</h3>
+      <img width="438" height="331" alt="image" src="https://github.com/user-attachments/assets/fca20f6b-c45f-48d4-b76f-d87aa56df567" />
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740646006/Sales_Heatmap_CamilingJS">
+      <img width="521" height="325" alt="image" src="https://github.com/user-attachments/assets/fd53b258-9150-4147-9372-6d7c866b8cf6" />
     </td>
   </tr>
 </table>
@@ -204,11 +204,19 @@
 
 <table align="center">
   <h1 align="center">Regional Results</h1>
-      <div align="center">
-        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/Regional_Barbel_Graph_CamilingJS" />
-      </div>
-  <tr valign="top">
-     <td width="900">
+  <table align="center">
+    <tr align="center">
+      <td width="1000" valign="top">
+      <h3>AOV by Region (2021-2024)</h3>
+      <img width="459" height="356" alt="image" src="https://github.com/user-attachments/assets/eb97533a-fd76-4b2f-8b2e-e59e79546055" />
+    </td>
+    <td width="1000">
+      <h3>Sales by Region (2021-2024)</h3>
+      <img width="433" height="333" alt="image" src="https://github.com/user-attachments/assets/7794fdba-9746-40ae-a71f-28d843a3f596" />
+    </td>
+  </tr>
+</table>
+</table>
       <ul>
         <li>p</li>
           <ul>

@@ -8,17 +8,17 @@
     <td width="1440">
       <h2 align="center">Client Background</h2>
       <body>
-        <strong>Lumous</strong> is a Uk-based online department store offering a wide range of consumer products , including furniture, office supplies, and technology. Established in 2020, the company has grown substantially to become a popular online retailer in the UK. In recent years, ShopItAll has experienced steady growth amid an increasingly competitive retail landscape, driven by evolving consumer preferences, economic fluctuations, and the accelerated shift toward online shopping following the COVID-19 pandemic. <br>
+        <strong>Lumous</strong> is a Uk-based online department store offering a wide range of consumer products, including <strong>furniture</strong>, <strong>office supplies</strong>, and <strong>technology</strong>. Established in 2020, the company has grown substantially to become a <strong>popular online retailer</strong> in the UK and in recent years, Lumous has experienced <strong>steady growth</strong> within an increasingly competitive market, driven by evolving consumer preferences, tailored marketing techniques, and an apparent shift towards online shopping following the COVID-19 pandemic. <br>
         <br>
-        <strong>Lumous'</strong> customer base has expanded to over 120,000 active customers, with more than 150,000 recorded transactions generating annual sales revenue exceeding £35 million. The available dataset captures detailed information across multiple dimensions — including product categories, regional sales performance, customer demographics, and loyalty program engagement. <br>
+        Lumous' customer base has expanded to over <strong>1,000 active customers</strong> with more than <strong>5,000 recorded transactions</strong>, generating <strong>annual sales revenue exceeding £500,000</strong>. The available dataset provides detailed information which allows for analysis of revenue growth and peak performance, quarterly analysis and seasonal trends, average order value and order count, product performance, regional results, and leads to future actionable insights and  marketing strategy recommendations.<br>
         <br>
-        Reporting to the Head of Business Analytics, an in-depth analysis was conducted to evaluate Lumous’ sales performance and customer trends over the past several years (2021-2024). This analysis aims to identify key growth drivers, uncover behavioural patterns among customers, and provide actionable insights to enhance sales strategy, optimise inventory management, and improve customer retention. The key insights and recommendations focus on the following areas:
+        Reporting to the Head of Business Analytics, an in-depth analysis was conducted to evaluate <strong>Lumous’</strong> sales performance and product trends over the past several years (<strong>2021-2024</strong>). This analysis aims to identify key growth drivers, uncover behavioural patterns of customers, and provide actionable insights to enhance sales strategy, optimise inventory management, and improve customer reach. The key insights and recommendations focus on the following areas:
       </body>
       <h3>Focus Metrics</h3>
       <h4>
-        <ul><li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
-          <li>Product performance - Analysing different product lines and market impact to inform strategic product decisions.</li>
-          <li>Regional results - Evaluating regional demand and product performance within regions to identify areas for improvement.</li>
+        <ul><li>Sales trends - Focusing on key metrics of sales revenue, average order value (AOV), and number of orders placed.</li>
+          <li>Product performance - Analysing different product categories and market impact to inform strategic product decisions.</li>
+          <li>Regional results - Evaluating regional demand and average order value per region to identify marketing improvement.</li>
         </ul>
       </h4>
     </td>

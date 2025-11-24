@@ -12,7 +12,7 @@
         <br>
         Lumous' customer base has expanded to over <strong>1,000 active customers</strong> with more than <strong>5,000 recorded transactions</strong>, generating <strong>annual sales revenue exceeding £500,000</strong>. The available dataset provides detailed information which allows for analysis of revenue growth and peak performance, quarterly analysis and seasonal trends, average order value and order count, product performance, regional results, and leads to future actionable insights and  marketing strategy recommendations.<br>
         <br>
-        Reporting to the Head of Business Analytics, an in-depth analysis was conducted to evaluate <strong>Lumous’</strong> sales performance and product trends over the past several years (<strong>2021-2024</strong>). This analysis aims to identify key growth drivers, uncover behavioural patterns of customers, and provide actionable insights to enhance sales strategy, optimise inventory management, and improve customer reach. The key insights and recommendations focus on the following areas:
+        Reporting to the Head of Business Analytics, an in-depth analysis was conducted to evaluate <strong>Lumous’</strong> sales performance and product trends over the past several years (<strong>2021-2024</strong>). This analysis aims to identify key growth drivers, uncover behavioural patterns of customers, and provide actionable insights to enhance sales strategy and optimise inventory management. The key insights and recommendations focus on the following areas:
       </body>
       <h3>Focus Metrics</h3>
       <h4>
@@ -30,7 +30,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Revenue Analysis (2021–2024)</h3>
       <div align="center">
-        <img width="670" height="313" alt="image" src="https://github.com/user-attachments/assets/42bca589-f446-434e-854d-fdbf67a80b4e" />
+        <img width="804" height="375.6" alt="image" src="https://github.com/user-attachments/assets/42bca589-f446-434e-854d-fdbf67a80b4e" />
         </div>
         <td width="460" valign="top">
           <ol>
@@ -77,7 +77,7 @@
   <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
   <body>The database structure as seen below consists of three tables: orders, customers, and order_status, with a total row count of 9994 records.</body>
   <div align="center">
-    <img width="623.2" height="463.2" alt="Orders" src="https://github.com/user-attachments/assets/8ae22d22-8564-48f1-8c0f-d113c248578d" />
+    <img width="529" height="444.5" alt="Orders (1)" src="https://github.com/user-attachments/assets/c1a13b51-f2dc-49ff-985e-ee34f37d3ca5" />
   </div>
   <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
@@ -228,7 +228,7 @@
     </td>
     <td width="1000">
       <h3>AOV by Region (2021-2024)</h3>
-      <img width="459" height="356" alt="image" src="https://github.com/user-attachments/assets/eb97533a-fd76-4b2f-8b2e-e59e79546055" />
+      <img width="429.346" height="333" alt="image" src="https://github.com/user-attachments/assets/eb97533a-fd76-4b2f-8b2e-e59e79546055" />
     </td>
   </tr>
 </table>

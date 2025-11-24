@@ -45,8 +45,8 @@
               <strong>Peak Performance</strong>
               <ul>
                 <li>2024 (Last year) was the strongest year, with Q4 seeing the highest revenue (£280K), making it the best-performing period overall.</li>
-                <li>Q4 peaks have grown from £180K in 2022 to £236K in 2024, and early 2025 data shows further acceleration with a peak of £280K. This suggests successful peak-season promotional strategies, marketing effectiveness, and strong customer acquisition during holiday periods.</li>
-                <li>However, the recurring drop to Q1 levels (e.g., £69K in 2022 and £93K in 2023) highlights a need to improve customer retention and off-peak demand generation. Addressing this seasonal dependency would smooth revenue variability and increase operational efficiency.</li>
+                <li>Q4 peaks have grown from £180K in 2021 to £280K in 2024. This suggests successful peak-season promotional strategies, marketing effectiveness, and strong customer acquisition during holiday periods.</li>
+                <li>However, the recurring drop in Q1 sales (dropping by £89K in Q1 2023 and £113K in 2024) highlights a need to improve marketing strategies in the first few months of the year and Lumous' ability to meet and increase off-peak demand. Addressing this seasonal dependency would smooth revenue variability and increase overall sales.</li>
               </ul>
             </li>
           </ol>
@@ -65,8 +65,8 @@
               <strong>Key Takeaways & Recommendations</strong>
               <ul>
                 <li>Implement discount sales and associated marketing in Q1 to address decrease in sales.</li>
+                <li>Use product performance analysis to focus marketing on products that perform the best during off-peak periods.</li>
                 <li>Leverage high-performing periods (Q3 and Q4) to refine marketing and sales strategies.</li>
-                <li>placeholder</li>
               </ul>
             </li>
           </ol>

@@ -12,12 +12,13 @@
         <br>
         Lumous' customer base has expanded to over <strong>1,000 active customers</strong> with more than <strong>5,000 recorded transactions</strong>, generating <strong>annual sales revenue exceeding £500,000</strong>. The available dataset provides detailed information which allows for analysis of revenue growth and peak performance, quarterly analysis and seasonal trends, average order value and order count, product performance, regional results, and leads to future actionable insights and  marketing strategy recommendations.<br>
         <br>
-        Reporting to the Head of Business Analytics, an in-depth analysis was conducted to evaluate <strong>Lumous’</strong> sales performance and product trends over the past several years (<strong>2021-2024</strong>). This analysis aims to identify key growth drivers, uncover behavioural patterns of customers, and provide actionable insights to enhance sales strategy and optimise inventory management. The key insights and recommendations focus on the following areas:
+        Reporting to the Head of Business Analytics, an in-depth analysis was conducted to evaluate <strong>Lumous’ sales performance</strong> and <strong>product trends</strong> over the past several years (<strong>2021-2024</strong>). This analysis aims to identify key growth drivers, uncover behavioural patterns of customers, and provide actionable insights to enhance sales strategy and optimise inventory management. The key insights and recommendations focus on the following areas:
       </body>
       <h3>Focus Metrics</h3>
       <h4>
         <ul><li>Sales trends - Focusing on key metrics of sales revenue, average order value (AOV), and number of orders placed.</li>
           <li>Product performance - Analysing different product categories and market impact to inform strategic product decisions.</li>
+          <li>Off-Peak Demand - Analysing first-quarter product sales to address off-peak sales decline.</li>
           <li>Regional results - Evaluating regional demand and average order value per region to identify marketing improvement.</li>
         </ul>
       </h4>
@@ -184,38 +185,136 @@
 <table align="center">
   <tr>
       <td width="333" valign="top">
-      <h3>The Best and Worst</h3>
-      <ul>
-        <li>Phones and Chairs contributed the most to total sales revenue between 2021-2024, with products in those sub-categories accounting for 14% of total sales each.</li>
-        <li>In contrast, products labelled as Envelopes, Labels, and Fasteners each contributed less that 1% of total sales revenue.</li>
-      </ul>
-      </td>
-  <td width="333" valign="top">
-      <h3>AOV Over Time</h3>
-      <ul>
-        <li>Machines and Copiers are consistently the biggest contributers to AOV since containing the more expensive products such as the Canon imageCLASS 2200 Advanced Copier which was the the top contributer in 2024 by a significant amount, making up 46% of total sales revenue in 2024 (£35.7K). </li>
-      </ul>
+        <h3>Top Products</h3>
+        <ul>
+          <li>The <strong>Canon imageCLASS 2200 Advanced Copier</strong> was the the top contributer in 2024 by a significant amount, making up <strong>46%</strong> of total sales revenue in 2024 (£35.7K).</li>
+          <li>This product was also the <strong>top product overall</strong> despite only being available for purchase since 2023.</li>
+        </ul>
       </td>
       <td width="333" valign="top">
-      <h3>Heat Map Findings</h3>
-      <ul>
-        <li>p</li>
-      </ul>
+        <h3>Top Categories</h3>
+        <ul>
+          <li>Sub-categories <strong>Phones</strong> and <strong>Chairs</strong> contributed the most to total sales revenue between 2021-2024, with these products accounting for <strong>14% of total sales each</strong>.</li>
+          <li></li>
+        </ul>
+      </td>
+      <td width="333" valign="top">
+        <h3>Worst-performing</h3>
+        <ul>
+          <li>In contrast, products labelled as <strong>Envelopes</strong>, <strong>Labels</strong>, and <strong>Fasteners</strong> each contributed <strong>less that 1%</strong> of total sales revenue.</li>
+        </ul>
       </td>
 </tr>
 </table>
 <table align="center">
-    <tr align="center">
-      <td width="1000" valign="top">
-      <h3>AOV Over Time (2021-2024)</h3>
-      <img width="438" height="331" alt="image" src="https://github.com/user-attachments/assets/fca20f6b-c45f-48d4-b76f-d87aa56df567" />
-    </td>
+  <tr align="center">
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
       <img width="552" height="371" alt="image" src="https://github.com/user-attachments/assets/2c93d8df-98b5-40e4-a8d0-d021122f6c75" />
     </td>
+    <td width="1000" valign="top">
+      <h3>AOV Over Time (2021-2024)</h3>
+      <img width="438" height="331" alt="image" src="https://github.com/user-attachments/assets/fca20f6b-c45f-48d4-b76f-d87aa56df567" />
+    </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+     <h1 align="center">Off-Peak Demand - First Quarter Analysis</h1>
+      <div align="center">
+        <h3>Technology Products are Largest Contributers in Q1</h3>
+        <img width="775.2" height="459.6" alt="image" src="https://github.com/user-attachments/assets/18380fa5-5be0-4982-a354-70eb72bf59b8" />
+      </div>
+    <tr>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+      <td width="333" valign="top">
+        <h3>Top Categories</h3>
+        <ul>
+          <li>Overall <strong>Technology</strong> is the <strong>strongest category</strong> in the first quarter, contributing to an average of <strong>36%</strong> of total sales each year.</li>
+          <li><strong>Machines</strong> and <strong>Phones</strong> were the <strong>top 2</strong> sub-categories in Q1, followed by <strong>Chairs</strong> and <strong>Tables</strong> despite Furniture being the worst-performing category overall.</li>
+          <li>Although <strong>Office Supplies</strong> did not contain top-performing products, due to the <strong>larger variety</strong>, this category still contributed to around <strong>32%</strong> of total sales.</li>
+        </ul>
+      </td>
+      <td width="333" valign="top">
+        <h3>Top Products</h3>
+        <ul>
+          <li>The <strong>Cisco EX90 Videoconferencing Unit</strong> was the best-selling product overall, generating a total of <strong>£23K</strong> across all four years.</li>
+          <li>This was followed by the <strong>Canon imageCLASS 2200 Advanced Copier</strong> at <strong>£14K</strong> (2021-2024) which was also the top product in the previous year (2024).</li>
+        </ul>
+      </td>
+      <td width="333" valign="top">
+        <h3>Trends</h3>
+        <ul>
+          <li></li>
+        </ul>
+      </td>
+</tr>
+</table>
+<table align="center">
+  <tr align="center">
+    <td width="1000" valign="top">
+      <h3>Top Products in Q1 (2021-2024)</h3>
+      <img width="465" height="371" alt="image" src="https://github.com/user-attachments/assets/bb523cfd-4144-4f10-9d9d-f72bc74d0e76" />
+    </td>
+    <td width="1000">
+      <h3>Top Categories in Q1</h3>
+      <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/c3566279-081b-4071-a99c-d2cd3042a5e8" />
+    </td>
+  </tr>
+</table>
+
+
+
+<table align="center">
+    <tr align="center">
+      <td width="1000" valign="top">
+      <h3>Top Products in Q1 2024</h3>
+      <img width="526" height="398" alt="image" src="https://github.com/user-attachments/assets/32fb5f2e-a5ae-45a4-94e9-04125ba494c8" />
+    </td>
+    <td width="1000">
+      <h3>Top Products Overall in Q1 (2021-2024)</h3>
+      <img width="465" height="371" alt="image" src="https://github.com/user-attachments/assets/bb523cfd-4144-4f10-9d9d-f72bc74d0e76" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+      <td width="333" valign="top">
+        <h3>Top Products</h3>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </td>
+      <td width="333" valign="top">
+        <h3>Top Categories</h3>
+        <ul>
+          <li></li>
+        </ul>
+      </td>
+      <td width="333" valign="top">
+        <h3></h3>
+        <ul>
+          <li></li></li>
+        </ul>
+      </td>
+</tr>
+</table>
+<table align="center">
+  <tr align="center">
+    <td width="1000">
+      <h3>Product Sales Heat Map by Quarter</h3>
+      <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/46577459-c21f-4cd3-8568-8d53ecf2a73b" />
+    </td>
+    <td width="1000" valign="top">
+      <h3>Top Categories</h3>
+      <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/c3566279-081b-4071-a99c-d2cd3042a5e8" />
+    </td>
+  </tr>
 </table>
 
 <table align="center">
@@ -262,7 +361,7 @@
 </table> -->
 <table align="center">
     <h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that Lumous can take away from our analysis.</h4>
+    <h4>Based on the uncovered insights, here are actionable items that Lumous can take away from this analysis.</h4>
       <ul>
         <h3>Sales</h3>
         <li>p</li>

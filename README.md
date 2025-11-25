@@ -75,7 +75,7 @@
       </div>
     </tr>
   </table>
-  <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
+  <h2 align="center">Dataset Structure and ERD (Entity Relationship Diagram)</h2>
   <body>The database structure as seen below consists of three tables: orders, customers, and order_status, with a total row count of 9994 records.</body>
   <div align="center">
     <img width="529" height="444.5" alt="Orders (1)" src="https://github.com/user-attachments/assets/c1a13b51-f2dc-49ff-985e-ee34f37d3ca5" />
@@ -149,7 +149,7 @@
   <table>
     <tr>
       <h4>
-        <strong>Sales Growth and AOV Growth followed seasonal fluctuations in 2024.</strong>
+        <strong>Sales Growth and AOV Growth Followed Seasonal Fluctuations in 2024.</strong>
       </h4>
       <td>
         <img width="724.5" height="322.5" alt="image" src="https://github.com/user-attachments/assets/de6f4abf-1f99-40e3-97e3-c3daca7ca200" />
@@ -189,19 +189,22 @@
         <ul>
           <li>The <strong>Canon imageCLASS 2200 Advanced Copier</strong> was the the top contributer in 2024 by a significant amount, making up <strong>46%</strong> of total sales revenue in 2024 (£35.7K).</li>
           <li>This product was also the <strong>top product overall</strong> despite only being available for purchase since 2023.</li>
+          <li>Despite the decline in AOV, the <strong>largest individual contributors</strong> to total sales revenue were Lumous' more expensive products including selected <strong>Machines</strong>, <strong>Copiers</strong> and <strong>Binders</strong>.</li>
         </ul>
       </td>
       <td width="333" valign="top">
         <h3>Top Categories</h3>
         <ul>
           <li>Sub-categories <strong>Phones</strong> and <strong>Chairs</strong> contributed the most to total sales revenue between 2021-2024, with these products accounting for <strong>14% of total sales each</strong>.</li>
-          <li></li>
+          <li>Reflecting Lumous' overall growth, most sub-categories show a <strong>positive trajectory in revenue growth</strong>, with <strong>Supplies</strong>, <strong>Copiers</strong>, <strong>Appliances</strong>, and <strong>Accessories</strong> showing the highest grwoth percentages year-on-year.</li>
         </ul>
       </td>
       <td width="333" valign="top">
-        <h3>Worst-performing</h3>
+        <h3>Worst-Performing</h3>
         <ul>
           <li>In contrast, products labelled as <strong>Envelopes</strong>, <strong>Labels</strong>, and <strong>Fasteners</strong> each contributed <strong>less that 1%</strong> of total sales revenue.</li>
+          <li>In particular, <strong>Envelopes</strong> were the only category with a <strong>negative growth</strong> trend overall. Although sales were growing somewhat over 2021-2023, sales revenue of Envelopes <strong>decreased by 29%</strong> in 2024.</li>
+            <li>Other concerning sub-categories when looking at revenue growth include <strong>Tables</strong> and <strong>Furnishings</strong> which grew by <strong>less than 4% last year</strong>, as well as <strong>Fasteners</strong> and, despite containing some of the top products, <strong>Machines</strong> which both <strong>declined negatively</strong> in 2024.</li>
         </ul>
       </td>
 </tr>
@@ -210,11 +213,11 @@
   <tr align="center">
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="552" height="371" alt="image" src="https://github.com/user-attachments/assets/2c93d8df-98b5-40e4-a8d0-d021122f6c75" />
+      <img width="500" height="339.806" alt="image" src="https://github.com/user-attachments/assets/f63102bf-76fb-4e97-a360-32dbeaeb85df" />
     </td>
     <td width="1000" valign="top">
-      <h3>AOV Over Time (2021-2024)</h3>
-      <img width="438" height="331" alt="image" src="https://github.com/user-attachments/assets/fca20f6b-c45f-48d4-b76f-d87aa56df567" />
+      <h3>Revenue Growth By Sub-Category</h3>
+      <img width="303.212" height="339.806" alt="image" src="https://github.com/user-attachments/assets/50cd9a6c-2aef-4baf-b6a7-8b7cccc21f90" />
     </td>
   </tr>
 </table>
@@ -243,13 +246,14 @@
         <h3>Top Products</h3>
         <ul>
           <li>The <strong>Cisco EX90 Videoconferencing Unit</strong> was the best-selling product overall, generating a total of <strong>£23K</strong> across all four years.</li>
-          <li>This was followed by the <strong>Canon imageCLASS 2200 Advanced Copier</strong> at <strong>£14K</strong> (2021-2024) which was also the top product in the previous year (2024).</li>
+          <li>This was followed by the <strong>Canon imageCLASS 2200 Advanced Copier</strong> at <strong>£14K</strong> (2021-2024) which was also the top product in the previous year (2024) both in Q1 and across the whole year.</li>
         </ul>
       </td>
       <td width="333" valign="top">
         <h3>Trends</h3>
         <ul>
-          <li></li>
+          <li>Top Phones sold in Q1 included the <strong>Apple IPhone 5</strong>, <strong>Samsung Galaxy S4 Active</strong>, and <strong>Samsung Galaxy Mega 6.3</strong>, with each generating £3K-£4K. Although this changes each year due to new models being released, <strong>Apple</strong> and <strong>Samsung</strong> phones are <strong>consistently top sellers</strong>.</li>
+          <li><strong>Global</strong> chairs are the <strong>most popular</strong> among customers, occupying 4/5 <strong>best-selling chairs</strong> in Q1 that Lumous currently offers.</li>
         </ul>
       </td>
 </tr>
@@ -262,56 +266,6 @@
     </td>
     <td width="1000">
       <h3>Top Categories in Q1</h3>
-      <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/c3566279-081b-4071-a99c-d2cd3042a5e8" />
-    </td>
-  </tr>
-</table>
-
-
-
-<table align="center">
-    <tr align="center">
-      <td width="1000" valign="top">
-      <h3>Top Products in Q1 2024</h3>
-      <img width="526" height="398" alt="image" src="https://github.com/user-attachments/assets/32fb5f2e-a5ae-45a4-94e9-04125ba494c8" />
-    </td>
-    <td width="1000">
-      <h3>Top Products Overall in Q1 (2021-2024)</h3>
-      <img width="465" height="371" alt="image" src="https://github.com/user-attachments/assets/bb523cfd-4144-4f10-9d9d-f72bc74d0e76" />
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-      <td width="333" valign="top">
-        <h3>Top Products</h3>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </td>
-      <td width="333" valign="top">
-        <h3>Top Categories</h3>
-        <ul>
-          <li></li>
-        </ul>
-      </td>
-      <td width="333" valign="top">
-        <h3></h3>
-        <ul>
-          <li></li></li>
-        </ul>
-      </td>
-</tr>
-</table>
-<table align="center">
-  <tr align="center">
-    <td width="1000">
-      <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/46577459-c21f-4cd3-8568-8d53ecf2a73b" />
-    </td>
-    <td width="1000" valign="top">
-      <h3>Top Categories</h3>
       <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/c3566279-081b-4071-a99c-d2cd3042a5e8" />
     </td>
   </tr>

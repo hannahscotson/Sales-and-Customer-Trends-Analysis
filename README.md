@@ -16,10 +16,10 @@
       </body>
       <h3>Focus Metrics</h3>
       <h4>
-        <ul><li>Sales trends - Focusing on key metrics of sales revenue, average order value (AOV), and number of orders placed.</li>
-          <li>Product performance - Analysing different product categories and market impact to inform strategic product decisions.</li>
+        <ul><li>Sales Trends - Focusing on key metrics of sales revenue, average order value (AOV), and number of orders placed.</li>
+          <li>Product Performance - Analysing different product categories and market impact to inform strategic product decisions.</li>
           <li>Off-Peak Demand - Analysing first-quarter product sales to address off-peak sales decline.</li>
-          <li>Regional results - Evaluating regional demand and average order value per region to identify marketing improvement.</li>
+          <li>Regional Results - Evaluating regional demand and average order value per region to identify marketing improvement.</li>
         </ul>
       </h4>
     </td>
@@ -293,7 +293,7 @@
           </ul>
         <li>In contrast, Lumous sales have <strong>underperformed</strong> in the <strong>South West</strong> region.</li>
           <ul>
-            <li>This region accounts for only <strong>17%</strong> of toal sales.</li>
+            <li>This region accounts for only <strong>17%</strong> of total sales.</li>
             <li>Generating only <strong>£71K</strong> in 2022.</li>
           </ul>
         <li><strong>Minimal variation</strong> in AOV per region.</li>
@@ -318,19 +318,35 @@
     <h4>Based on the uncovered insights, here are actionable items that Lumous can take away from this analysis.</h4>
       <ul>
         <h3>Sales</h3>
-        <li>p</li>
+        <li>Address sales decline due to seasonal fluctuations in the first quarter through intentional marketing.</li>
+        <ul>
+          <li>Sales revenue drops by ~50% from Q4 to the first quarter of the next year.</li>
+        </ul>
+        <li>Focus on cheaper products during high performing periods (Q3 and Q4).</li>
           <ul>
-            <li>p</li>
+            <li>AOV trends suggest reduced basket sizes with either fewer items per order or customers shifting to lower-priced products.</li>
+            <li>Strong growth in the number of orders placed year-on-year, where order counts closely follow sales revenue.</li>
           </ul>
         <h3>Products</h3>
-        <li>p</li>
+        <li>Optimise inventory to prioritise high-performing products year-round.</li>
+        <ul>
+          <li>The Canon imageCLASS 2200 Advanced Copier is the strongest product in terms of sales, approaching £62K over the past four years.</li>
+        </ul>
+        <li>Deprioritise inventory for low-performing products.</li>
           <ul>
-            <li>p</li>
+            <li>Envelopes, Labels, and Fasteners each contributed less that 1% of total sales revenue, with Envelopes being the only category with a negative growth trend overall.</li>
           </ul>
+        <h3>Off-Peak Demand</h3>
+        <li>Focus on products that consistently perform well during the first quarter.</li>
+        <ul>
+          <li>Technology is the strongest category, with Machines and Phones generating the most revenue.</li>
+          <li>Top products include the Cisco EX90 Videoconferencing Unit which generated a total of £23K in Q1 across all four years, followed by the Canon imageCLASS 2200 Advanced Copier.</li>
+          <li>Phones Sales are increasing steadily each year and are popular purchases in the first quarter, where the latest models from companies such as Apple and Samsung generate the most revenue.</li>
+        </ul>
         <h3>Regions</h3>
-        <li>p</li>
+        <li>Address poor performance in the South West region by re-evaluating region-specific marketing.</li>
           <ul>
-            <li>p</li>
+            <li>Higher AOV where sales revenue is lacking suggests a greater interest in higher-priced products which is not reflected in the marketing for that region.</li>
           </ul>
       </ul>
 </table>

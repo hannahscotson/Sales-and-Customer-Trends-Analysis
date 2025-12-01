@@ -265,8 +265,8 @@
       <img width="465" height="371" alt="image" src="https://github.com/user-attachments/assets/bb523cfd-4144-4f10-9d9d-f72bc74d0e76" />
     </td>
     <td width="1000">
-      <h3>Top Categories in Q1</h3>
-      <img width="508" height="380" alt="image" src="https://github.com/user-attachments/assets/c3566279-081b-4071-a99c-d2cd3042a5e8" />
+      <h3>Top Category Distribution in Q1 Sales</h3>
+      <img width="429.142" height="371" alt="image" src="https://github.com/user-attachments/assets/3fde0880-3e9e-4e7b-bbfe-d37132c2b049" />
     </td>
   </tr>
 </table>

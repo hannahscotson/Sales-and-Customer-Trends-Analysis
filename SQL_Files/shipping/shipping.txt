@@ -1,0 +1,10 @@
+Shipping and Operations
+Goal: Evaluate delivery performance and logistics costs.
+
+Typical questions:
+How long does it typically take to ship an order (ship date – order date)?
+Which ship mode is used most often?
+Does faster shipping correlate with higher sales or lower profit?
+Are some regions slower to deliver than others?
+
+Why? Operations teams need to balance cost vs. speed and improve customer satisfaction.

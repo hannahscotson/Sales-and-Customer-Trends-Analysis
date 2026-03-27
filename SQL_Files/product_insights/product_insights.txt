@@ -1,0 +1,15 @@
+Product and Category Insights
+
+Goal: Optimize product strategy and inventory.
+
+Typical questions:
+
+Which products are selling the most (quantity, revenue)?
+
+Which ones are consistently unprofitable?
+
+What’s the average discount given per product category?
+
+Are there seasonal patterns in certain products (e.g., tech in Q4)?
+
+💬 Why it matters: Helps decide what to promote, reorder, or discontinue.

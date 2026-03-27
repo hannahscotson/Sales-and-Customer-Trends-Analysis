@@ -1,0 +1,12 @@
+Customer Analysis
+Goal: Understand who’s buying and which customers drive the most value.
+
+Typical questions:
+
+Who are our top customers by sales or profit?
+Which customer segment (Consumer, Corporate, Home Office) is most profitable?
+What is the average order value per customer?
+How many unique customers did we serve this quarter?
+Are there customers who make frequent small purchases vs. few large ones?
+
+Why? Marketing and retention teams use this for targeting, loyalty programs, and segmentation strategies.

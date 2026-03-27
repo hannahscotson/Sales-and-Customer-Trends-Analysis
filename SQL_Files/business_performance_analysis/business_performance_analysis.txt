@@ -1,0 +1,12 @@
+Business Performance Analysis
+Goal: Understand how the business is doing financially.
+
+Typical questions:
+How much total sales and profit did we make last quarter/year?
+Which product categories or subcategories generate the most revenue? The least profit?
+What is the overall profit margin?
+How are sales trending over time — month over month, or year over year?
+Did discounts improve or hurt profitability?
+
+Why? Executives care about trends and profitability.
+Turn this into time-based aggregations, profit calculations, and comparisons across categories.

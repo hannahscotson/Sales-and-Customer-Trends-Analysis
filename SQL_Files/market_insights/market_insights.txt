@@ -1,0 +1,9 @@
+Regional and Market Insights
+Goal: Understand geographic performance.
+
+Typical questions:
+Which regions, states, or cities have the most sales or profit?
+Where are we losing money?
+How does profitability vary by region or shipping mode?
+What’s the average order size per region?
+Why? Guides territory management, marketing focus, and logistics planning.

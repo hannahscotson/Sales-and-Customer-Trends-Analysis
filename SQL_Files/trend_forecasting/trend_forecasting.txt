@@ -1,0 +1,10 @@
+Trend and Forecasting Preparation
+Goal: Enable time-based comparisons and insights.
+
+Typical questions:
+What was our month-on-month or year-on-year growth rate?
+How are sales and profits trending over time?
+Are there seasonal patterns?
+How did discount rates change over time?
+
+Why? This feeds forecasting models and executive dashboards.
